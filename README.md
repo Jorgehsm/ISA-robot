@@ -1,2 +1,2 @@
 # projetos
-Projetos pessoais
+Projetos pessoais principalmente voltados para a área de robótica
